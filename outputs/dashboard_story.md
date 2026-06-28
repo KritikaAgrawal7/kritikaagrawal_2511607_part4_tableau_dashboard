@@ -105,3 +105,13 @@ This executive dashboard enables stakeholders to:
 - Improve shipping operations
 - Reduce product returns
 - Make data-driven business decisions
+
+## Dashboard Interactivity
+
+The dashboard includes interactive filtering to support exploratory analysis.
+
+- Selecting a state in the **Regional Sales & Profit Performance** chart filters all other dashboard views.
+- KPI cards, sales trends, customer segment performance, shipping performance, discount analysis, and return analysis update dynamically based on the selected state.
+- Users can clear the selection to return to the overall business view.
+
+This interaction enables executives to quickly analyze the performance of individual regions without navigating to separate reports.
